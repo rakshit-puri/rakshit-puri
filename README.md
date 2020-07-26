@@ -18,4 +18,4 @@
 </p>
 
 # My Resume  
-[Click to see](https://github.com/skate1512/skate1512/blob/master/Resume%203.0.pdf)
+[Click to see](https://github.com/skate1512/skate1512/blob/master/Resume.pdf)

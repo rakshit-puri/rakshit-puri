@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter.**
 
-- 👯 I’m looking to collaborate on **any project for beginners.**
+- 👯 I’m looking to collaborate on **any project.**
 
 - 💬 Ask me about **Python, C or C++.**
 

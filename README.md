@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skate1512" alt="skate1512" /> </p>
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Flutter.**
 
 - 👯 I’m looking to collaborate on **any project for beginners.**
 
-- 💬 Ask me about **basic programming concepts in C, C++ or Python.**
+- 💬 Ask me about **Python, C or C++.**
 
 - ⚡ Fun fact: **I love to watch movies and tv shows.**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skate1512&show_icons=true&theme=dracula" alt="skate1512" /> </p>

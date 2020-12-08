@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakshit Puri</h1>
-<h3 align="center">I like to learn new things and try them out myself. I'm interested in IoT and electronics.</h3>
+<h3 align="center">I like to learn new things and try them out myself. I'm interested in IoT and Software Development.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skate1512" alt="skate1512" /> </p>
 

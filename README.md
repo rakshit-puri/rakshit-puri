@@ -13,8 +13,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skate1512&show_icons=true&theme=dracula" alt="skate1512" /> </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/rakshit-puri-2963a8165" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakshit-puri-2963a8165" height="50" width="50" /></a>
-<a href="https://instagram.com/rp1512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rp1512" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/rakshit-puri-2963a8165" target="blank"><img align="center" src="linkedin.png" alt="rakshit-puri-2963a8165" height="50" width="50" /></a>
+<a href="https://instagram.com/rp1512" target="blank"><img align="center" src="instagram.png" alt="rp1512" height="50" width="50" /></a>
 </p>
 
 # My Resume  

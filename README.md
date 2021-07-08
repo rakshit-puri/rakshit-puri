@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skate1512" alt="skate1512" /> </p>
 
-- 🌱 I’m currently learning **Android Development.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👯 I’m looking to collaborate on **any project.**
 

@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/rakshit-puri15" target="blank"><img align="center" src="linkedin.png" alt="rakshit-puri15" height="50" width="50" /></a>
-<a href="https://instagram.com/rp1512" target="blank"><img align="center" src="instagram.png" alt="rp1512" height="50" width="50" /></a>
+<a href="https://instagram.com/_skate1512" target="blank"><img align="center" src="instagram.png" alt="rp1512" height="50" width="50" /></a>
 </p>
 
 # My Resume  

@@ -10,7 +10,6 @@
 - 💬 Ask me about **Python, C or C++.**
 
 - ⚡ Fun fact: **I love to watch movies and tv shows.**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skate1512&show_icons=true&theme=dracula" alt="skate1512" /> </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/rakshit-puri15" target="blank"><img align="center" src="linkedin.png" alt="rakshit-puri15" height="50" width="50" /></a>

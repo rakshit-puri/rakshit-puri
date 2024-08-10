@@ -5,16 +5,10 @@
 
 - 🌱 I’m currently learning **Web Development.**
 
-- 👯 I’m looking to collaborate on **any project.**
-
-- 💬 Ask me about **Python, C or C++.**
+- 👯 I’m looking to collaborate on **any interesting project.**
 
 - ⚡ Fun fact: **I love to watch movies and tv shows.**
 
 <p align="center">
 <a href="https://linkedin.com/in/rakshit-puri15" target="blank"><img align="center" src="linkedin.png" alt="rakshit-puri15" height="50" width="50" /></a>
-<a href="https://instagram.com/_skate1512" target="blank"><img align="center" src="instagram.png" alt="rp1512" height="50" width="50" /></a>
 </p>
-
-# My Resume  
-[Click to see](https://github.com/skate1512/skate1512/blob/master/Resume.pdf)
